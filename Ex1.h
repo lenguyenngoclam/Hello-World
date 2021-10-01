@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 
+//This branch is using for Branch-for-exercise1
+
 using namespace std;
 
 class Fraction;
