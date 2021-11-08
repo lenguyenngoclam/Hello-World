@@ -1,8 +1,11 @@
 #include <iostream>
 #include <cmath>
 
+<<<<<<< HEAD
 //This branch is using for Branch-for-exercise1
 
+=======
+>>>>>>> origin/main
 using namespace std;
 
 class Fraction;
